@@ -1,0 +1,55 @@
+nohup: ignoring input
+[I 2024-09-29 13:48:26.247 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-29 13:48:26.255 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-29 13:48:26.270 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-29 13:48:26.274 ServerApp] Writing Jupyter server cookie secret to /config/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-29 13:48:26.719 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-29 13:48:26.747 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-29 13:48:26.755 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-29 13:48:26.757 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-29 13:48:26.759 LabApp] JupyterLab extension loaded from /config/workspace/jupyterlab-venv/lib/python3.10/site-packages/jupyterlab
+[I 2024-09-29 13:48:26.760 LabApp] JupyterLab application directory is /config/workspace/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-29 13:48:26.760 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-29 13:48:26.767 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-29 13:48:26.767 ServerApp] Serving notebooks from local directory: /config/workspace
+[I 2024-09-29 13:48:26.768 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-29 13:48:26.768 ServerApp] http://055620e448b1:8888/lab?token=99f2a3fea958adcf3e7d52c351a92aa0323833b5b5241c14
+[I 2024-09-29 13:48:26.768 ServerApp]     http://127.0.0.1:8888/lab?token=99f2a3fea958adcf3e7d52c351a92aa0323833b5b5241c14
+[I 2024-09-29 13:48:26.768 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-09-29 13:48:26.775 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///config/.local/share/jupyter/runtime/jpserver-12194-open.html
+    Or copy and paste one of these URLs:
+        http://055620e448b1:8888/lab?token=99f2a3fea958adcf3e7d52c351a92aa0323833b5b5241c14
+        http://127.0.0.1:8888/lab?token=99f2a3fea958adcf3e7d52c351a92aa0323833b5b5241c14
+[I 2024-09-29 13:48:26.815 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2024-09-29 13:55:54.767 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-09-29 13:57:40.864 ServerApp] Writing notebook-signing key to /config/.local/share/jupyter/notebook_secret
+[W 2024-09-29 13:57:40.867 ServerApp] Notebook C4_W4_Lab_1_Visualization.ipynb is not trusted
+[I 2024-09-29 13:57:42.635 ServerApp] Kernel started: 2d66c4b2-4240-4be2-8142-2ef28ebf9417
+[I 2024-09-29 13:57:43.438 ServerApp] Connecting to kernel 2d66c4b2-4240-4be2-8142-2ef28ebf9417.
+[I 2024-09-29 13:57:43.931 ServerApp] Connecting to kernel 2d66c4b2-4240-4be2-8142-2ef28ebf9417.
+[I 2024-09-29 13:57:44.415 ServerApp] Connecting to kernel 2d66c4b2-4240-4be2-8142-2ef28ebf9417.
+[I 2024-09-29 13:59:41.711 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:00:10.142 ServerApp] Creating new file in /classicmodels_modeling/models
+[I 2024-09-29 14:00:18.471 ServerApp] Creating new directory in /classicmodels_modeling/models
+[I 2024-09-29 14:01:01.728 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/annual_sells_per_office_view.sq
+[I 2024-09-29 14:01:20.521 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/annual_sells_per_office_view.sq
+[I 2024-09-29 14:01:30.643 ServerApp] Creating new file in /classicmodels_modeling/models/analytical_views
+[I 2024-09-29 14:01:42.044 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/schema.yml
+[I 2024-09-29 14:01:43.121 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:01:59.965 ServerApp] Saving file at /classicmodels_modeling/dbt_project.yml
+[I 2024-09-29 14:02:22.637 ServerApp] Creating new file in /classicmodels_modeling/models/analytical_views
+[I 2024-09-29 14:03:02.474 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/avg_sells_per_product_line_view.sql
+[I 2024-09-29 14:03:17.888 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:03:31.956 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/schema.yml
+[I 2024-09-29 14:07:18.681 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:13:19.448 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:16:42.176 ServerApp] Creating new file in /classicmodels_modeling/models/analytical_views
+[I 2024-09-29 14:17:03.491 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/avg_sells_per_product_line_mv.sql
+[I 2024-09-29 14:17:33.152 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/avg_sells_per_product_line_mv.sql
+[I 2024-09-29 14:17:48.620 ServerApp] Saving file at /classicmodels_modeling/models/analytical_views/schema.yml
+[I 2024-09-29 14:19:20.220 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:23:20.754 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
+[I 2024-09-29 14:25:21.903 ServerApp] Saving file at /C4_W4_Lab_1_Visualization.ipynb
